@@ -1,0 +1,26 @@
+	HTML
+1.<meta>标签要写到<title>标签的前面。
+
+2.colspan:横向单元格合并(列合并)。
+  rowspan:竖向单元格合并(行合并)。
+
+3.<figure>html5标签用于文档中插图的图像。实例：http://www.w3school.com.cn/tags/tag_figure.asp
+
+4.<q>标签，短文本的引用
+  <blockquote>标签，长文本的引用
+  <address>标签，为网页加入地址信息
+  <code>标签，在网页中显示code标签里面的程序代码。
+   例：<code>var i=i+100;</code>,网页显示var i=i+100;
+        code标签里面一般写的是代码
+<pre>预格式化标签，标签里面的内容会按照编写的样子显示
+
+5.单选框中的name值要是一样的才能实现单选。
+  <textarea>标签的placeholder相当于<input>中的value，placeholder是html5属性，IE9及以前版本不支持。http://www.w3school.com.cn/tags/att_textarea_placeholder.asp
+
+  在查看多个网页的注册页面全部都用了标签把<input>标签包裹住,这样做有利于加css样式进行操作。
+	 例：1.<div><input type="text" name="username"></div>
+		 2.<li><input type="text" name="username"></li>
+ 
+
+
+
